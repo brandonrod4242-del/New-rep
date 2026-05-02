@@ -1,4 +1,5 @@
-Telegram Bot — Claude AI Chat + Crypto Trade Alerts
+Telegram Bot - Claude AI Chat + Crypto Trade Alerts
+
 =====================================================
 Features:
   - Chat with Claude AI directly from Telegram
